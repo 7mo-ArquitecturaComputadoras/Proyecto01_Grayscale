@@ -1,1 +1,1 @@
-# Proyecto01_ConversionColoresGrises
+# Proyecto01_Grayscale

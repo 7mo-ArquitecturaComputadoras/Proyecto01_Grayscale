@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Proyecto01_Grayscale.vcxproj" Id="2db21f1e-0095-4452-b05f-f669527e9163" />
+</Solution>
