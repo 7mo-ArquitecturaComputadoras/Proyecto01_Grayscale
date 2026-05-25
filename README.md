@@ -110,11 +110,7 @@ Proyecto01_Grayscale/
 │   ├── README_compilacion_latex.md         # Cómo compilar el .tex a PDF
 │   ├── reporte.pdf                         # Reporte técnico compilado
 │   ├── reporte.tex                         # Reporte técnico en LaTeX
-│   └── imagenes/
-│       ├── input.png                       # Imagen de entrada (referencia)
-│       ├── output.png                      # Resultado en escala de grises
-│       ├── consola_ejecucion.png           # Salida del programa
-│       └── hex_header.png                  # Inspección hex del BMP
+│   └── imagenes/                           # Imágenes usadas en el reporte
 │
 ├── proyecto/
 │   ├── README_instalacion.md               # Guía de instalación y puesta en marcha
