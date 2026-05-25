@@ -1,6 +1,6 @@
 # 🛠️ Instalación y Puesta en Marcha
 
-Guía paso a paso para clonar, compilar y ejecutar el **Proyecto 01 — Conversión de Imagen BMP a Escala de Grises** en un equipo nuevo. El proyecto está escrito en **ensamblador x64 (MASM)** con una interfaz en **C++** y se compila con **Visual Studio** en **Windows**.
+Guía paso a paso para clonar, compilar y ejecutar el **Proyecto 01 — Grayscale** en un equipo nuevo. El proyecto está escrito en **ensamblador x64 (MASM)** con una interfaz en **C++** y se compila con **Visual Studio** en **Windows**.
 
 ---
 
