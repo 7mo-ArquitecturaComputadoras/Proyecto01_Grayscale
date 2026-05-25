@@ -1,4 +1,4 @@
-# 🎨 Proyecto 01 — Grayscale en Ensamblador x64
+# 🔢 Proyecto 01 — Grayscale en Ensamblador x64
 
 Programa mixto **ensamblador x64 (MASM) + C++** que lee una imagen en formato **BMP de 24 bits**, convierte cada uno de sus píxeles a un tono de gris equivalente usando la fórmula de luminancia **ITU-R BT.601** ($Y' = 0.299\,R + 0.587\,G + 0.114\,B$), y escribe el resultado en un nuevo archivo BMP. La rutina ensambladora `conversion_grayscale` aplica los pesos como enteros escalados por $2^8$ para evitar el costo de la aritmética en punto flotante.
 
